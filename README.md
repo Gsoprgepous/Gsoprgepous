@@ -4,11 +4,11 @@ I'm a passionate learner and developer, exploring the intersection of technology
 ## Currently Learning
 - **Django** for web development
 - **TensorFlow** for building neural networks
-- **Data Science** techniques for analyzing personality types
+- **Data Science** techniques for analyzing things
 
 ## 🎓 Education & Experience
 - Participated in **Olympiads** and **case championships** to sharpen my analytical skills.
-- Engaged in diverse **research projects** focusing on the impact of personality traits on career ambitions.
+- Engaged in diverse **research projects**
 
 ## Skills
 - **Programming Languages**: Python, (currently starting JavaScript, C++)
