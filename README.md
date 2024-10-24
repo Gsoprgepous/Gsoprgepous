@@ -1,17 +1,19 @@
 # 🦄 Hi there
-I'm a passionate learner and developer, exploring the intersection of technology, data analysis, and human behavior. My journey has taken me through various disciplines, including social studies, economics, and programming.
+I'm a passionate learner and probably future developer, exploring the intersection of technology, data analysis, and human behavior. My journey has taken me through various disciplines, including social studies, economics, and programming.
 
 ## Currently Learning
-- **Django** for web development
-- **TensorFlow** for building neural networks
-- **Data Science** techniques for analyzing things
+- **Reinforcement Learning** for Robotics and Game Development
+- **Recommendation Systems** 
+- **Data Science** for analyzing things
+- **NLP** Transformers (BERT, GPT), RNN, LSTM
+- **Computer Vision**
 
 ## 🎓 Education & Experience
 - Participated in **Olympiads** and **case championships** to sharpen my analytical skills.
 - Engaged in diverse **research projects**
 
 ## Skills
-- **Programming Languages**: Python, (currently starting JavaScript, C++)
+- **Programming Languages**: Python, (currently starting C++)
 - **Frameworks**: Django, Flask
 - **Libraries**: TensorFlow, Pandas, NumPy, Matplotlib
 - **Tools**: Git, Jupyter Notebooks, Replit
